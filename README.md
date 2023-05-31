@@ -25,3 +25,5 @@ user@contosodev.com. In order to do it, click in te Subscriptions tab.
 7.	Enter your @contosodev.com account.
 
 8.	Click Add 
+
+Created with: https://readme.so
